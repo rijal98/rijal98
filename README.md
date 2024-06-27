@@ -27,7 +27,7 @@
 <img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.tiktok.com/@mh.rijal" target="_blank">
+<a href="https://www.tiktok.com/@mh_rijal" target="_blank">
 <img src="./tiktok.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
 </a>
 
